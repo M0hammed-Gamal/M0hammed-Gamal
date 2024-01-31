@@ -16,7 +16,7 @@ I'm interested in Web development, DevOps, Software Engineering and Artificial I
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m0hammed-gamal&label=Profile%20views&color=0e75b6&style=flat" alt="m0hammed-gamal" /> </p>
 
-<h3 align="left">Connect with me: /n muhammed.jaamal@gmail.com </h3>
+<h3 align="left">Connect with me: muhammed.jaamal@gmail.com </h3>
 <p align="left">
 </p>
 
