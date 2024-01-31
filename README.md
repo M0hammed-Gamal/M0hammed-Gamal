@@ -17,12 +17,17 @@ I'm interested in Web development, DevOps, Software Engineering and Artificial I
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0hammed-gamal&show_icons=true&locale=en" alt="m0hammed-gamal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0hammed-gamal&" alt="m0hammed-gamal" /></p>
+
+
+
+
+
 <h3 align="left">Connect with me: muhammed.jaamal@gmail.com </h3>
 <p align="left">
 </p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0hammed-gamal&show_icons=true&locale=en" alt="m0hammed-gamal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0hammed-gamal&" alt="m0hammed-gamal" /></p>
