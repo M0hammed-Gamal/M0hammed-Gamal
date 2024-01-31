@@ -1,6 +1,5 @@
 # Mohammed Gamal
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student)](https://git.io/typing-svg)
-
 <p><em>Software Enginner at <a href="https://www.alxafrica.com/">alxafrica</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.mohamedgamal.tech/">mohmedegamal</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
