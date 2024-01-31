@@ -1,5 +1,5 @@
 # Mohammed Gamal
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student;YouTuber)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=+Software+Engineer;Full-Stack+Web+Developer!;Student)](https://git.io/typing-svg)
 I'm interested in Web development, DevOps, Software Engineering and Artificial Intelligence<br>
 
 ---
@@ -32,7 +32,6 @@ I'm interested in Web development, DevOps, Software Engineering and Artificial I
 
 ### Contact Me: <br>
 **E-mail** muhammed.jaamal@gmail.com<br>
-
 
 ---
 
