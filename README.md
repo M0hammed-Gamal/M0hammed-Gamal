@@ -10,7 +10,7 @@
 ```javascript
 const Jemi = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Python, JavaScript ],
+  code: [Javascript, Typescript, HTML, CSS, Python ],
   tools: [Nginx, AWS, Node, Storybook, Bash, Docker],
   techCommunities: {
                         coorganizer: "AfroPython",
